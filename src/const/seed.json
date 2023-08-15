@@ -1,0 +1,2172 @@
+[
+  {
+    "team": [
+      {
+        "id": "1dbe1477-6288-4f05-a219-873aa61f3944",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T22:52:49.656Z",
+        "updated_at": "2023-08-14T01:29:42.189Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "90988ec9-b8da-4042-826e-2d1769a21ef6",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T21:12:59.093Z",
+        "updated_at": "2023-08-14T06:10:28.147Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a0ada8a1-07fe-4b20-8872-f9cd5696ffec",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T15:32:57.136Z",
+        "updated_at": "2023-08-14T01:30:09.216Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a0a40a03-d777-409c-80c4-87021c59a1b0",
+        "name": "Care Team",
+        "created_at": "2023-08-14T08:35:50.430Z",
+        "updated_at": "2023-08-14T04:03:08.880Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bede121b-dc2a-4f7a-aa2e-54a406b09dcd",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T20:28:37.370Z",
+        "updated_at": "2023-08-14T02:33:15.674Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "2cb60b9c-814c-49f7-9556-d69e8ea3c753",
+        "created_at": "2023-08-14T15:03:40.846Z",
+        "updated_at": "2023-08-14T22:14:33.526Z",
+        "team_id": "a0a40a03-d777-409c-80c4-87021c59a1b0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69ed9858-ae56-4710-ac25-bb584187b36f",
+        "created_at": "2023-08-15T00:02:47.069Z",
+        "updated_at": "2023-08-14T10:37:49.126Z",
+        "team_id": "bede121b-dc2a-4f7a-aa2e-54a406b09dcd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "965cfa32-5e65-4e86-9102-6cc74e67ba0b",
+        "created_at": "2023-08-14T17:50:29.911Z",
+        "updated_at": "2023-08-14T08:24:58.728Z",
+        "team_id": "a0a40a03-d777-409c-80c4-87021c59a1b0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e595acb8-57b8-440d-8968-92d426fd7154",
+        "created_at": "2023-08-14T15:41:08.382Z",
+        "updated_at": "2023-08-14T11:57:35.314Z",
+        "team_id": "1dbe1477-6288-4f05-a219-873aa61f3944",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b89925e3-d31d-49f6-9196-984b815d544d",
+        "created_at": "2023-08-14T22:42:45.946Z",
+        "updated_at": "2023-08-14T15:18:43.954Z",
+        "team_id": "90988ec9-b8da-4042-826e-2d1769a21ef6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "e8f13117-f093-47cf-9cf3-b562f5d0ccd7",
+        "created_at": "2023-08-14T14:18:38.317Z",
+        "updated_at": "2023-08-14T17:36:57.615Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27470970-c6d5-4a6c-aa23-485008b2591f",
+        "created_at": "2023-08-14T16:34:20.233Z",
+        "updated_at": "2023-08-14T06:14:42.528Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "545a842f-b4e4-4cb7-9d18-42125ea6dee7",
+        "created_at": "2023-08-14T22:01:39.372Z",
+        "updated_at": "2023-08-14T15:21:42.128Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "823baf6f-436e-4dc1-8cd4-e979118ff56e",
+        "created_at": "2023-08-14T22:24:10.121Z",
+        "updated_at": "2023-08-14T18:51:11.250Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7eb36b53-cfdf-4cdd-bcc0-0e9ef487e05b",
+        "created_at": "2023-08-14T10:26:23.082Z",
+        "updated_at": "2023-08-14T10:00:32.047Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "cc4798a6-fbf7-42f0-a3d7-d429eacf5c90",
+        "date_time": "2023-08-14T17:45:20.825Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T18:53:29.362Z",
+        "updated_at": "2023-08-14T07:26:21.411Z",
+        "referee_id": "e8f13117-f093-47cf-9cf3-b562f5d0ccd7",
+        "team1_id": "1dbe1477-6288-4f05-a219-873aa61f3944",
+        "team2_id": "90988ec9-b8da-4042-826e-2d1769a21ef6"
+      },
+      {
+        "id": "c4bb206f-87c2-40c5-9e91-d1bb2b99064b",
+        "date_time": "2023-08-14T02:00:31.518Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T21:25:27.601Z",
+        "updated_at": "2023-08-14T17:36:18.585Z",
+        "referee_id": "545a842f-b4e4-4cb7-9d18-42125ea6dee7",
+        "team1_id": "a0ada8a1-07fe-4b20-8872-f9cd5696ffec",
+        "team2_id": "a0ada8a1-07fe-4b20-8872-f9cd5696ffec"
+      },
+      {
+        "id": "e156440b-4d17-4b28-8fd7-1a6d9de35f8c",
+        "date_time": "2023-08-14T18:45:11.887Z",
+        "location": "London",
+        "created_at": "2023-08-14T03:15:56.197Z",
+        "updated_at": "2023-08-14T10:15:07.805Z",
+        "referee_id": "545a842f-b4e4-4cb7-9d18-42125ea6dee7",
+        "team1_id": "bede121b-dc2a-4f7a-aa2e-54a406b09dcd",
+        "team2_id": "a0ada8a1-07fe-4b20-8872-f9cd5696ffec"
+      },
+      {
+        "id": "9d386ffe-dce4-45a8-8692-db0b2b7af132",
+        "date_time": "2023-08-14T09:33:36.411Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T14:39:31.536Z",
+        "updated_at": "2023-08-14T05:36:27.359Z",
+        "referee_id": "7eb36b53-cfdf-4cdd-bcc0-0e9ef487e05b",
+        "team1_id": "a0a40a03-d777-409c-80c4-87021c59a1b0",
+        "team2_id": "90988ec9-b8da-4042-826e-2d1769a21ef6"
+      },
+      {
+        "id": "74e3ec27-6aad-42f2-ae94-db3bedccbdb8",
+        "date_time": "2023-08-14T09:24:09.109Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T04:26:27.007Z",
+        "updated_at": "2023-08-14T17:02:21.927Z",
+        "referee_id": "e8f13117-f093-47cf-9cf3-b562f5d0ccd7",
+        "team1_id": "1dbe1477-6288-4f05-a219-873aa61f3944",
+        "team2_id": "90988ec9-b8da-4042-826e-2d1769a21ef6"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f33d658d-88fc-4af8-b64a-f3cef3153eea",
+        "email": "Lennie11@hotmail.com",
+        "firstName": "Lyric",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6746573",
+        "tenantId": null
+      },
+      {
+        "reference": "38e10646-e205-49f7-829d-f9c4f32d2866",
+        "email": "Edmond_Smitham63@yahoo.com",
+        "firstName": "Augustine",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22288941",
+        "tenantId": null
+      },
+      {
+        "reference": "31202d94-71fa-473a-a7e9-de3de14a2064",
+        "email": "Kyra62@hotmail.com",
+        "firstName": "Jaylin",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/790.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14676d96-1f51-4539-8732-1d7f7fbaac93",
+        "email": "Annette95@gmail.com",
+        "firstName": "Alfonzo",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1010.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c9aa73cb-eb93-40f0-a76a-4a14d669caf6",
+        "email": "Vidal76@hotmail.com",
+        "firstName": "Jamal",
+        "lastName": "Kessler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53679358",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "ef7fe2df-ca6e-4f4c-bb72-df32a68ad0e5",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T06:57:20.962Z",
+        "updated_at": "2023-08-14T13:24:41.036Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "407a2424-289b-41f7-9f6f-7b46b7096ba5",
+        "name": "Bravo Team",
+        "created_at": "2023-08-14T23:13:19.808Z",
+        "updated_at": "2023-08-14T04:29:30.163Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9006392b-61b6-4ff7-9330-7356f075ae21",
+        "name": "Delta Force",
+        "created_at": "2023-08-14T14:54:02.387Z",
+        "updated_at": "2023-08-14T23:10:52.228Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d7d55ebb-5187-4cf0-8e11-3759716ec4d7",
+        "name": "Echo Group",
+        "created_at": "2023-08-15T00:28:21.523Z",
+        "updated_at": "2023-08-14T16:39:14.655Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d403e88b-8423-4f57-9d01-b3ac2d20b8ae",
+        "name": "Foxtrot Crew",
+        "created_at": "2023-08-14T12:13:13.299Z",
+        "updated_at": "2023-08-14T15:08:40.126Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "775f34d8-ddbb-440f-858b-50ca8484c676",
+        "created_at": "2023-08-14T07:38:36.623Z",
+        "updated_at": "2023-08-14T11:57:33.492Z",
+        "team_id": "d7d55ebb-5187-4cf0-8e11-3759716ec4d7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c90f175-74da-46d1-bc6b-b92ab82f7d4d",
+        "created_at": "2023-08-15T00:10:09.404Z",
+        "updated_at": "2023-08-14T22:34:34.231Z",
+        "team_id": "407a2424-289b-41f7-9f6f-7b46b7096ba5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87c88876-d924-4eb0-b33d-0835e6d2e395",
+        "created_at": "2023-08-14T11:58:24.826Z",
+        "updated_at": "2023-08-14T19:02:08.033Z",
+        "team_id": "d7d55ebb-5187-4cf0-8e11-3759716ec4d7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "356973c8-0dec-43e0-819a-3ebd0b05902d",
+        "created_at": "2023-08-14T03:19:54.648Z",
+        "updated_at": "2023-08-14T11:04:35.001Z",
+        "team_id": "9006392b-61b6-4ff7-9330-7356f075ae21",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "357afb81-efb5-498a-bb77-7adffc5d9adc",
+        "created_at": "2023-08-14T02:43:42.974Z",
+        "updated_at": "2023-08-14T22:47:51.955Z",
+        "team_id": "407a2424-289b-41f7-9f6f-7b46b7096ba5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "4267b3df-0d92-405d-aa6e-9325f95cffe0",
+        "created_at": "2023-08-14T08:34:09.466Z",
+        "updated_at": "2023-08-14T23:06:36.806Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de93ed9d-d84e-44ff-8d8d-cd0476b9924b",
+        "created_at": "2023-08-14T09:01:38.712Z",
+        "updated_at": "2023-08-14T23:44:32.203Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6f28a49-2276-43d6-8228-5493de1264cc",
+        "created_at": "2023-08-14T02:17:11.986Z",
+        "updated_at": "2023-08-14T10:14:47.384Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "836f123f-9de2-4c9c-8db8-dbd1b3de5d1f",
+        "created_at": "2023-08-14T13:41:17.055Z",
+        "updated_at": "2023-08-14T03:55:45.230Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bab730e8-0c93-4e04-bd2c-dacc1d90be25",
+        "created_at": "2023-08-14T07:40:28.631Z",
+        "updated_at": "2023-08-14T18:30:37.746Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "c5e7e197-7362-4817-ae28-6f7f1d5a6e5f",
+        "date_time": "2023-08-14T13:00:04.745Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T14:52:24.251Z",
+        "updated_at": "2023-08-14T22:05:44.186Z",
+        "referee_id": "836f123f-9de2-4c9c-8db8-dbd1b3de5d1f",
+        "team1_id": "407a2424-289b-41f7-9f6f-7b46b7096ba5",
+        "team2_id": "d7d55ebb-5187-4cf0-8e11-3759716ec4d7"
+      },
+      {
+        "id": "d8886fd7-3069-4e63-8312-3a4c4d069566",
+        "date_time": "2023-08-14T03:49:47.460Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-15T01:01:36.860Z",
+        "updated_at": "2023-08-14T13:25:24.195Z",
+        "referee_id": "bab730e8-0c93-4e04-bd2c-dacc1d90be25",
+        "team1_id": "407a2424-289b-41f7-9f6f-7b46b7096ba5",
+        "team2_id": "ef7fe2df-ca6e-4f4c-bb72-df32a68ad0e5"
+      },
+      {
+        "id": "350c6247-85b5-4173-b212-e7c201079e76",
+        "date_time": "2023-08-14T03:14:13.118Z",
+        "location": "London",
+        "created_at": "2023-08-14T03:45:07.065Z",
+        "updated_at": "2023-08-14T20:09:55.437Z",
+        "referee_id": "4267b3df-0d92-405d-aa6e-9325f95cffe0",
+        "team1_id": "d403e88b-8423-4f57-9d01-b3ac2d20b8ae",
+        "team2_id": "ef7fe2df-ca6e-4f4c-bb72-df32a68ad0e5"
+      },
+      {
+        "id": "f5573971-ba9a-46fa-a39b-09f21686f64c",
+        "date_time": "2023-08-14T19:58:45.234Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T19:22:52.546Z",
+        "updated_at": "2023-08-14T19:18:00.408Z",
+        "referee_id": "4267b3df-0d92-405d-aa6e-9325f95cffe0",
+        "team1_id": "d403e88b-8423-4f57-9d01-b3ac2d20b8ae",
+        "team2_id": "9006392b-61b6-4ff7-9330-7356f075ae21"
+      },
+      {
+        "id": "acd5d574-3b92-45d0-9204-f14bf7c65895",
+        "date_time": "2023-08-14T03:48:39.016Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T08:30:42.340Z",
+        "updated_at": "2023-08-14T07:26:11.899Z",
+        "referee_id": "4267b3df-0d92-405d-aa6e-9325f95cffe0",
+        "team1_id": "ef7fe2df-ca6e-4f4c-bb72-df32a68ad0e5",
+        "team2_id": "ef7fe2df-ca6e-4f4c-bb72-df32a68ad0e5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "347e1236-07cb-46c6-b9b6-175a6f7817d0",
+        "email": "Toby38@gmail.com",
+        "firstName": "Christopher",
+        "lastName": "Runolfsson-Langworth",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/78.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c071785-4d00-45db-b049-10731200167c",
+        "email": "Mabelle.Schroeder74@yahoo.com",
+        "firstName": "Dedrick",
+        "lastName": "Moen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10315410",
+        "tenantId": null
+      },
+      {
+        "reference": "a5ce14a8-4a05-4295-9ad6-3f4c127c634d",
+        "email": "Adelbert_Bechtelar@hotmail.com",
+        "firstName": "Frida",
+        "lastName": "Volkman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1195.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "18c8b577-423b-46b4-a47b-81fe35e98e4c",
+        "email": "Glenda_Funk@hotmail.com",
+        "firstName": "Janick",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58112887",
+        "tenantId": null
+      },
+      {
+        "reference": "1a2aad59-3b39-49bf-917a-a706e4a90726",
+        "email": "Jaylin_Hills13@gmail.com",
+        "firstName": "Velva",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/0.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "cadb09c3-344f-4739-b435-8c6573f81bc1",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T14:27:09.045Z",
+        "updated_at": "2023-08-14T12:54:41.457Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6a33dd0a-f9b6-4c0c-a006-ff44aaefa352",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T17:06:36.169Z",
+        "updated_at": "2023-08-14T19:08:40.768Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d160efee-6375-4d9a-a03f-a7df4e37cccc",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T12:57:08.278Z",
+        "updated_at": "2023-08-14T21:48:42.584Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66ddadac-ea95-4b60-aaa4-7a1c9b6ba4cf",
+        "name": "Care Team",
+        "created_at": "2023-08-14T21:50:15.332Z",
+        "updated_at": "2023-08-15T00:09:07.065Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c9186fd5-0c70-4207-adfd-a283e4dea671",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T02:14:38.578Z",
+        "updated_at": "2023-08-14T02:07:41.723Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "6e75a21e-6eac-4a9c-98f7-431b0157b4e8",
+        "created_at": "2023-08-14T21:42:49.661Z",
+        "updated_at": "2023-08-14T17:25:22.500Z",
+        "team_id": "cadb09c3-344f-4739-b435-8c6573f81bc1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e603464-0820-462a-b8cf-48344f4e2466",
+        "created_at": "2023-08-14T17:07:02.438Z",
+        "updated_at": "2023-08-14T11:08:00.569Z",
+        "team_id": "d160efee-6375-4d9a-a03f-a7df4e37cccc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f15b9690-29b0-41a6-ab58-584601d36828",
+        "created_at": "2023-08-14T05:32:18.565Z",
+        "updated_at": "2023-08-14T15:04:02.372Z",
+        "team_id": "c9186fd5-0c70-4207-adfd-a283e4dea671",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75001d61-5ede-4621-bf1e-173628f211ac",
+        "created_at": "2023-08-14T05:37:37.314Z",
+        "updated_at": "2023-08-14T14:59:26.733Z",
+        "team_id": "66ddadac-ea95-4b60-aaa4-7a1c9b6ba4cf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e4a337c-4998-439f-9e2d-4f73eee99487",
+        "created_at": "2023-08-14T15:33:40.791Z",
+        "updated_at": "2023-08-15T00:51:47.083Z",
+        "team_id": "cadb09c3-344f-4739-b435-8c6573f81bc1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "51cc4dce-e11f-44e6-bd52-37eeaedc1f13",
+        "created_at": "2023-08-14T10:26:24.773Z",
+        "updated_at": "2023-08-14T01:47:08.006Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de934fed-626e-4b3d-b787-86a9e8f08287",
+        "created_at": "2023-08-14T04:49:33.526Z",
+        "updated_at": "2023-08-14T14:59:40.742Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fd776f2-f17d-4730-85c0-2e97c36d582e",
+        "created_at": "2023-08-14T15:04:10.091Z",
+        "updated_at": "2023-08-14T23:10:39.790Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e6c29d6-7ef3-44de-9bb1-c099cb865b77",
+        "created_at": "2023-08-14T10:04:03.895Z",
+        "updated_at": "2023-08-14T18:26:42.239Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05a13006-cba2-428c-924a-1e2c58d98129",
+        "created_at": "2023-08-14T01:36:26.930Z",
+        "updated_at": "2023-08-14T07:18:39.727Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "7551a02b-d9ee-4b09-b60e-222815c3c937",
+        "date_time": "2023-08-14T16:43:16.561Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T15:09:09.810Z",
+        "updated_at": "2023-08-14T18:51:44.442Z",
+        "referee_id": "05a13006-cba2-428c-924a-1e2c58d98129",
+        "team1_id": "cadb09c3-344f-4739-b435-8c6573f81bc1",
+        "team2_id": "d160efee-6375-4d9a-a03f-a7df4e37cccc"
+      },
+      {
+        "id": "c6e0b18f-bd5f-4a6d-8421-c1f3486c2e33",
+        "date_time": "2023-08-14T21:00:04.971Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T08:02:34.293Z",
+        "updated_at": "2023-08-14T16:56:25.604Z",
+        "referee_id": "de934fed-626e-4b3d-b787-86a9e8f08287",
+        "team1_id": "6a33dd0a-f9b6-4c0c-a006-ff44aaefa352",
+        "team2_id": "66ddadac-ea95-4b60-aaa4-7a1c9b6ba4cf"
+      },
+      {
+        "id": "eda43f96-4a40-417c-8067-457f76591c3c",
+        "date_time": "2023-08-14T14:57:50.348Z",
+        "location": "London",
+        "created_at": "2023-08-14T08:20:39.194Z",
+        "updated_at": "2023-08-14T12:10:04.773Z",
+        "referee_id": "2e6c29d6-7ef3-44de-9bb1-c099cb865b77",
+        "team1_id": "66ddadac-ea95-4b60-aaa4-7a1c9b6ba4cf",
+        "team2_id": "6a33dd0a-f9b6-4c0c-a006-ff44aaefa352"
+      },
+      {
+        "id": "46579053-aad7-45f5-bee6-3d311226a88a",
+        "date_time": "2023-08-14T12:40:29.521Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T22:21:35.986Z",
+        "updated_at": "2023-08-14T03:56:39.454Z",
+        "referee_id": "2e6c29d6-7ef3-44de-9bb1-c099cb865b77",
+        "team1_id": "6a33dd0a-f9b6-4c0c-a006-ff44aaefa352",
+        "team2_id": "cadb09c3-344f-4739-b435-8c6573f81bc1"
+      },
+      {
+        "id": "44f8d795-f7be-4d30-9ae3-7f5daa66e3e9",
+        "date_time": "2023-08-14T22:25:58.434Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T05:56:30.010Z",
+        "updated_at": "2023-08-14T09:46:42.457Z",
+        "referee_id": "2e6c29d6-7ef3-44de-9bb1-c099cb865b77",
+        "team1_id": "cadb09c3-344f-4739-b435-8c6573f81bc1",
+        "team2_id": "d160efee-6375-4d9a-a03f-a7df4e37cccc"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a2f40178-6e9b-483a-9b03-f9c61a80dfb4",
+        "email": "Torrey.Dibbert38@gmail.com",
+        "firstName": "Mekhi",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/174.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2bc2fa4e-d8c4-413c-b57d-40a17efcd877",
+        "email": "Kraig_Wehner70@hotmail.com",
+        "firstName": "Meghan",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70865536",
+        "tenantId": null
+      },
+      {
+        "reference": "267d1d60-d710-415c-bd96-29f14bd0b4db",
+        "email": "Tyler_Haley24@yahoo.com",
+        "firstName": "Stanley",
+        "lastName": "Erdman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29471414",
+        "tenantId": null
+      },
+      {
+        "reference": "62dc3677-91ad-47d4-be75-70a27c35bea9",
+        "email": "Monty_Goyette@hotmail.com",
+        "firstName": "Kayley",
+        "lastName": "Pacocha",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/55.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1d7ca5f2-3dfa-45e0-bcf2-4dc66c9e3078",
+        "email": "Vada59@yahoo.com",
+        "firstName": "Samantha",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91318135",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T11:17:31.362Z",
+        "updated_at": "2023-08-14T20:35:46.101Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "28deb66b-cedd-4ffd-a817-6cf6b872e97c",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T07:30:30.300Z",
+        "updated_at": "2023-08-15T00:21:39.960Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d3dc2b31-2882-41e7-b2b0-f21a11904164",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T05:10:20.999Z",
+        "updated_at": "2023-08-14T01:53:29.486Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "252f1460-f87e-4307-b3fe-b3ea09dcdb00",
+        "name": "Care Team",
+        "created_at": "2023-08-14T07:28:50.451Z",
+        "updated_at": "2023-08-14T01:21:34.002Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5611e4d5-5328-48a2-9018-39cf088b631f",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T17:28:11.760Z",
+        "updated_at": "2023-08-14T09:50:05.500Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "d546b735-eb8b-4dd0-9b8f-b0b3952e6a9b",
+        "created_at": "2023-08-14T22:37:10.242Z",
+        "updated_at": "2023-08-14T08:12:24.042Z",
+        "team_id": "252f1460-f87e-4307-b3fe-b3ea09dcdb00",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dd9764c-5a4a-4ae2-b131-9320a6f4fdbf",
+        "created_at": "2023-08-14T10:44:45.754Z",
+        "updated_at": "2023-08-14T15:57:13.937Z",
+        "team_id": "d3dc2b31-2882-41e7-b2b0-f21a11904164",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80694618-bd97-454f-9731-2aece82632d4",
+        "created_at": "2023-08-15T00:19:02.029Z",
+        "updated_at": "2023-08-14T07:43:30.161Z",
+        "team_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "787489d0-d4f8-4a8b-8b6f-566be8c78c98",
+        "created_at": "2023-08-14T17:37:51.035Z",
+        "updated_at": "2023-08-14T03:23:45.838Z",
+        "team_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a9ab602-6035-4454-8c49-4bb527be1ff8",
+        "created_at": "2023-08-14T20:17:47.944Z",
+        "updated_at": "2023-08-14T04:22:21.026Z",
+        "team_id": "252f1460-f87e-4307-b3fe-b3ea09dcdb00",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "7b4babb4-c605-4fbe-b3b3-686cde239cf0",
+        "created_at": "2023-08-14T07:46:36.345Z",
+        "updated_at": "2023-08-14T04:48:36.316Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6322cb3b-e535-45cf-b1d3-5ebd628fbede",
+        "created_at": "2023-08-14T18:13:36.658Z",
+        "updated_at": "2023-08-14T02:36:51.382Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7193d54-1259-477b-a8ae-1ff7200a0d99",
+        "created_at": "2023-08-14T06:17:00.517Z",
+        "updated_at": "2023-08-14T22:14:44.303Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b709403-dd01-4bb4-aef7-3dcc1b0eba90",
+        "created_at": "2023-08-14T17:04:52.252Z",
+        "updated_at": "2023-08-14T10:47:26.795Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d14fa80-4c42-4434-8fb3-42081c5bdcdd",
+        "created_at": "2023-08-14T19:39:35.084Z",
+        "updated_at": "2023-08-14T11:08:43.461Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "48b5fd8f-ee13-46dc-b599-4abd29b4fc80",
+        "date_time": "2023-08-14T14:25:20.929Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T08:55:32.875Z",
+        "updated_at": "2023-08-14T13:56:41.784Z",
+        "referee_id": "7b4babb4-c605-4fbe-b3b3-686cde239cf0",
+        "team1_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "team2_id": "d3dc2b31-2882-41e7-b2b0-f21a11904164"
+      },
+      {
+        "id": "a04a6917-b733-4841-be52-c98883ec4e80",
+        "date_time": "2023-08-14T09:53:44.967Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T01:49:45.208Z",
+        "updated_at": "2023-08-14T22:13:59.501Z",
+        "referee_id": "2b709403-dd01-4bb4-aef7-3dcc1b0eba90",
+        "team1_id": "d3dc2b31-2882-41e7-b2b0-f21a11904164",
+        "team2_id": "d3dc2b31-2882-41e7-b2b0-f21a11904164"
+      },
+      {
+        "id": "eb318fc5-5f1f-491c-bd7c-df8009d924c5",
+        "date_time": "2023-08-14T03:52:37.994Z",
+        "location": "London",
+        "created_at": "2023-08-14T08:26:22.838Z",
+        "updated_at": "2023-08-14T21:00:08.003Z",
+        "referee_id": "7b4babb4-c605-4fbe-b3b3-686cde239cf0",
+        "team1_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "team2_id": "d3dc2b31-2882-41e7-b2b0-f21a11904164"
+      },
+      {
+        "id": "a18ed328-7169-4d38-bd1b-0e3e16847fbe",
+        "date_time": "2023-08-14T20:51:35.809Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T20:24:57.137Z",
+        "updated_at": "2023-08-14T13:03:31.354Z",
+        "referee_id": "2b709403-dd01-4bb4-aef7-3dcc1b0eba90",
+        "team1_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "team2_id": "28deb66b-cedd-4ffd-a817-6cf6b872e97c"
+      },
+      {
+        "id": "6c3c9fe1-d159-40fe-8592-48904b174a26",
+        "date_time": "2023-08-14T12:43:26.037Z",
+        "location": "Sydney",
+        "created_at": "2023-08-15T00:55:50.479Z",
+        "updated_at": "2023-08-14T10:40:26.017Z",
+        "referee_id": "7b4babb4-c605-4fbe-b3b3-686cde239cf0",
+        "team1_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad",
+        "team2_id": "d2f6005d-bfe1-42c0-b7c1-951c56f39aad"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7db92e5c-d37f-42c2-9ccf-1d43076b6274",
+        "email": "Cicero46@gmail.com",
+        "firstName": "Sebastian",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5537648",
+        "tenantId": null
+      },
+      {
+        "reference": "81173770-7b76-45fc-8362-c4db6a7c22a6",
+        "email": "Lilian73@gmail.com",
+        "firstName": "Cristobal",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16466406",
+        "tenantId": null
+      },
+      {
+        "reference": "8ab284bf-54b8-4f65-8ff5-48afd81df6f9",
+        "email": "Winnifred_Little14@yahoo.com",
+        "firstName": "Alvina",
+        "lastName": "Muller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83764488",
+        "tenantId": null
+      },
+      {
+        "reference": "585f5059-8953-41ee-957b-7ff12a7fe46f",
+        "email": "Selmer50@yahoo.com",
+        "firstName": "Celestino",
+        "lastName": "Witting",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48411619",
+        "tenantId": null
+      },
+      {
+        "reference": "09d37c25-8293-45df-b4ad-6635e3ecf07c",
+        "email": "Antonetta92@hotmail.com",
+        "firstName": "Annie",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30336538",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "f4ced59c-dd75-4b10-9d54-2f4f03bdaa68",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T14:04:18.353Z",
+        "updated_at": "2023-08-14T19:36:23.963Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e9d74655-da9b-4fc3-b6ea-0070ab934ed5",
+        "name": "Innovation Team",
+        "created_at": "2023-08-15T00:27:44.160Z",
+        "updated_at": "2023-08-14T22:48:22.724Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T22:00:10.834Z",
+        "updated_at": "2023-08-14T07:21:58.932Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fe98515-e866-4686-93fc-eba02147c353",
+        "name": "Care Team",
+        "created_at": "2023-08-14T03:04:44.157Z",
+        "updated_at": "2023-08-14T18:14:36.209Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d1bfe9ff-2290-4047-a348-e32dc294db6a",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T13:24:06.676Z",
+        "updated_at": "2023-08-14T17:41:27.942Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "8260d9fc-1c5d-40fb-afe7-b3ca54782a96",
+        "created_at": "2023-08-15T00:13:34.303Z",
+        "updated_at": "2023-08-14T18:36:28.639Z",
+        "team_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8f40519-25b5-4dd3-a614-f2fc72571d4c",
+        "created_at": "2023-08-14T05:37:21.954Z",
+        "updated_at": "2023-08-14T09:59:51.343Z",
+        "team_id": "f4ced59c-dd75-4b10-9d54-2f4f03bdaa68",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3a48567-f587-4ecd-a60b-82c4c55596c2",
+        "created_at": "2023-08-14T20:32:43.491Z",
+        "updated_at": "2023-08-14T23:45:10.468Z",
+        "team_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31591571-61d3-4853-b668-15f2197451de",
+        "created_at": "2023-08-14T08:14:27.742Z",
+        "updated_at": "2023-08-14T06:28:12.252Z",
+        "team_id": "d1bfe9ff-2290-4047-a348-e32dc294db6a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "132be1e7-0673-4f9c-a34f-5909da690613",
+        "created_at": "2023-08-14T01:41:46.622Z",
+        "updated_at": "2023-08-14T17:55:13.159Z",
+        "team_id": "d1bfe9ff-2290-4047-a348-e32dc294db6a",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "5371638f-ef51-43d6-9251-ca776107fc1e",
+        "created_at": "2023-08-14T01:31:05.539Z",
+        "updated_at": "2023-08-14T06:40:28.889Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92bc5a40-0a9a-4953-8724-8260f4f39c85",
+        "created_at": "2023-08-14T14:15:12.264Z",
+        "updated_at": "2023-08-14T10:08:45.127Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6b83b38-30ca-46d3-9cb2-074e1684de93",
+        "created_at": "2023-08-14T21:12:25.480Z",
+        "updated_at": "2023-08-14T15:50:48.008Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c81458ef-3425-4a9a-9f05-40d180c014d6",
+        "created_at": "2023-08-14T22:16:57.042Z",
+        "updated_at": "2023-08-14T12:00:25.465Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3627425f-a72d-499a-9973-8f299d2af945",
+        "created_at": "2023-08-14T13:46:20.907Z",
+        "updated_at": "2023-08-14T12:05:10.532Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "0d5bfad2-d058-4f78-8db0-211a838cb33b",
+        "date_time": "2023-08-14T01:48:02.531Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T04:51:15.640Z",
+        "updated_at": "2023-08-14T09:00:23.549Z",
+        "referee_id": "5371638f-ef51-43d6-9251-ca776107fc1e",
+        "team1_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a",
+        "team2_id": "e9d74655-da9b-4fc3-b6ea-0070ab934ed5"
+      },
+      {
+        "id": "394880f6-d516-4dd2-be61-d3dfa9a54b28",
+        "date_time": "2023-08-14T05:14:00.382Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T14:53:17.957Z",
+        "updated_at": "2023-08-14T19:21:44.138Z",
+        "referee_id": "5371638f-ef51-43d6-9251-ca776107fc1e",
+        "team1_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a",
+        "team2_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a"
+      },
+      {
+        "id": "c14b6d4b-ef6a-4d13-bfbb-a69fccd60b09",
+        "date_time": "2023-08-14T09:06:03.355Z",
+        "location": "London",
+        "created_at": "2023-08-14T07:10:09.996Z",
+        "updated_at": "2023-08-14T18:41:15.059Z",
+        "referee_id": "5371638f-ef51-43d6-9251-ca776107fc1e",
+        "team1_id": "e9d74655-da9b-4fc3-b6ea-0070ab934ed5",
+        "team2_id": "d1bfe9ff-2290-4047-a348-e32dc294db6a"
+      },
+      {
+        "id": "7f78d006-fe67-4238-99ff-4be719e3fdbe",
+        "date_time": "2023-08-14T06:46:31.789Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T11:40:23.173Z",
+        "updated_at": "2023-08-14T03:16:23.566Z",
+        "referee_id": "3627425f-a72d-499a-9973-8f299d2af945",
+        "team1_id": "f4ced59c-dd75-4b10-9d54-2f4f03bdaa68",
+        "team2_id": "e9d74655-da9b-4fc3-b6ea-0070ab934ed5"
+      },
+      {
+        "id": "969d46b4-5412-4fa3-9484-b57d15401f07",
+        "date_time": "2023-08-14T02:40:01.595Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T02:38:17.808Z",
+        "updated_at": "2023-08-14T03:43:27.947Z",
+        "referee_id": "5371638f-ef51-43d6-9251-ca776107fc1e",
+        "team1_id": "d1bfe9ff-2290-4047-a348-e32dc294db6a",
+        "team2_id": "4c5e16fd-a5b4-4ddb-9e76-d2643068021a"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a529b5de-0ff1-432c-8663-6bebda79a009",
+        "email": "Francisca42@yahoo.com",
+        "firstName": "Dudley",
+        "lastName": "Langosh-Hills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9407163",
+        "tenantId": null
+      },
+      {
+        "reference": "3eb048fd-dfb5-4010-a284-8cc7fade27f3",
+        "email": "Dedric6@gmail.com",
+        "firstName": "Darron",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54076536",
+        "tenantId": null
+      },
+      {
+        "reference": "632d3278-da95-45ee-9577-5e5e9c446e62",
+        "email": "Amani_Hagenes@gmail.com",
+        "firstName": "Caden",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1219.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ab63c5d2-4978-40ae-a5f0-4686fcb02c58",
+        "email": "Urban13@hotmail.com",
+        "firstName": "Chandler",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93712083",
+        "tenantId": null
+      },
+      {
+        "reference": "2d625a63-7e1c-46f7-ad4d-d2a77c990710",
+        "email": "Camryn_Schuster@yahoo.com",
+        "firstName": "Vaughn",
+        "lastName": "Reynolds",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/18.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "612ebce6-d7ed-4713-ac09-526a28266f77",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T19:50:07.695Z",
+        "updated_at": "2023-08-14T11:23:46.000Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "231f1d80-120b-4eff-9fea-16918b5ad84c",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T11:39:16.477Z",
+        "updated_at": "2023-08-14T12:08:01.963Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef6f6116-ea20-4aaa-bb5e-cc5c60de0e02",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T06:47:54.208Z",
+        "updated_at": "2023-08-14T22:47:31.598Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2a79b264-433f-4a79-af18-8396df4acbd1",
+        "name": "Care Team",
+        "created_at": "2023-08-14T03:36:33.592Z",
+        "updated_at": "2023-08-15T00:59:12.954Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cd2be179-cb06-4154-b415-4c5b0443e679",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T05:01:55.126Z",
+        "updated_at": "2023-08-14T13:01:12.682Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "98c135f9-2964-4043-bcb5-88ed6107e652",
+        "created_at": "2023-08-14T03:23:59.744Z",
+        "updated_at": "2023-08-14T18:23:33.328Z",
+        "team_id": "cd2be179-cb06-4154-b415-4c5b0443e679",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90d99f4d-31ec-4371-b7d1-5a304614ccdc",
+        "created_at": "2023-08-14T03:29:08.556Z",
+        "updated_at": "2023-08-14T08:52:51.160Z",
+        "team_id": "ef6f6116-ea20-4aaa-bb5e-cc5c60de0e02",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7aeec56c-1b8b-427b-8056-932f5ff25dff",
+        "created_at": "2023-08-14T20:21:13.401Z",
+        "updated_at": "2023-08-14T11:42:28.150Z",
+        "team_id": "cd2be179-cb06-4154-b415-4c5b0443e679",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51d96031-60cd-406e-873d-65b7a5113703",
+        "created_at": "2023-08-14T09:35:11.606Z",
+        "updated_at": "2023-08-14T09:46:04.978Z",
+        "team_id": "cd2be179-cb06-4154-b415-4c5b0443e679",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "718a35d9-8b97-4d12-8bc8-c6b7f1e46c95",
+        "created_at": "2023-08-15T00:09:14.566Z",
+        "updated_at": "2023-08-14T06:53:51.332Z",
+        "team_id": "612ebce6-d7ed-4713-ac09-526a28266f77",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "481cca02-cf59-4648-9753-e19834c6baea",
+        "created_at": "2023-08-14T14:20:07.063Z",
+        "updated_at": "2023-08-14T18:35:31.095Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "264101db-a199-4f19-8cfe-992a1de0b354",
+        "created_at": "2023-08-14T18:32:48.243Z",
+        "updated_at": "2023-08-14T02:24:11.152Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64f73276-bcb2-452f-8b8d-0f51ff83836c",
+        "created_at": "2023-08-14T15:36:06.732Z",
+        "updated_at": "2023-08-14T15:56:41.800Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e99d1b9-de1e-4509-a68d-1eae51162ea9",
+        "created_at": "2023-08-14T11:04:54.293Z",
+        "updated_at": "2023-08-15T01:12:46.443Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33a60170-15a3-42cb-be2e-d0541d7c16ae",
+        "created_at": "2023-08-14T20:14:47.556Z",
+        "updated_at": "2023-08-14T14:03:39.116Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "b994d8e9-b46d-46ef-a13e-4589707845c5",
+        "date_time": "2023-08-14T04:29:13.530Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T19:32:25.058Z",
+        "updated_at": "2023-08-15T00:33:45.436Z",
+        "referee_id": "264101db-a199-4f19-8cfe-992a1de0b354",
+        "team1_id": "231f1d80-120b-4eff-9fea-16918b5ad84c",
+        "team2_id": "cd2be179-cb06-4154-b415-4c5b0443e679"
+      },
+      {
+        "id": "f4ffdbd4-492a-4c7c-af86-3ac421eb43e6",
+        "date_time": "2023-08-14T10:51:35.735Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T22:06:08.107Z",
+        "updated_at": "2023-08-14T17:29:05.680Z",
+        "referee_id": "64f73276-bcb2-452f-8b8d-0f51ff83836c",
+        "team1_id": "ef6f6116-ea20-4aaa-bb5e-cc5c60de0e02",
+        "team2_id": "cd2be179-cb06-4154-b415-4c5b0443e679"
+      },
+      {
+        "id": "09501c51-8a70-4541-9744-c116eeda6921",
+        "date_time": "2023-08-14T10:25:55.874Z",
+        "location": "London",
+        "created_at": "2023-08-14T17:39:57.008Z",
+        "updated_at": "2023-08-14T04:53:50.161Z",
+        "referee_id": "6e99d1b9-de1e-4509-a68d-1eae51162ea9",
+        "team1_id": "231f1d80-120b-4eff-9fea-16918b5ad84c",
+        "team2_id": "231f1d80-120b-4eff-9fea-16918b5ad84c"
+      },
+      {
+        "id": "4516d120-d099-45c4-bdf9-6a28eb107104",
+        "date_time": "2023-08-14T23:13:46.153Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T16:50:12.520Z",
+        "updated_at": "2023-08-14T19:58:02.131Z",
+        "referee_id": "264101db-a199-4f19-8cfe-992a1de0b354",
+        "team1_id": "2a79b264-433f-4a79-af18-8396df4acbd1",
+        "team2_id": "231f1d80-120b-4eff-9fea-16918b5ad84c"
+      },
+      {
+        "id": "da0c26e6-6083-49e5-a5f8-f03f0a41dcf9",
+        "date_time": "2023-08-14T05:15:20.634Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T22:36:39.973Z",
+        "updated_at": "2023-08-14T22:38:25.183Z",
+        "referee_id": "6e99d1b9-de1e-4509-a68d-1eae51162ea9",
+        "team1_id": "ef6f6116-ea20-4aaa-bb5e-cc5c60de0e02",
+        "team2_id": "cd2be179-cb06-4154-b415-4c5b0443e679"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "848fbf1f-e592-4c68-a33d-b12377d6b2d3",
+        "email": "Lucas.Douglas86@gmail.com",
+        "firstName": "Hortense",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/979.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "51030536-aca9-4ca3-adca-20d68eba883d",
+        "email": "Roger52@hotmail.com",
+        "firstName": "Vivien",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1092.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db6bbe0e-d24b-458e-a5d4-c7c1e87a779e",
+        "email": "Elijah.Leannon31@hotmail.com",
+        "firstName": "Javon",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91198567",
+        "tenantId": null
+      },
+      {
+        "reference": "9b49ed8a-8923-48ce-8bc2-72ba02c7eaad",
+        "email": "Layla.Heidenreich12@yahoo.com",
+        "firstName": "Jerrod",
+        "lastName": "Torp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61121747",
+        "tenantId": null
+      },
+      {
+        "reference": "daf0e960-5cc8-489f-a301-8fb382bdf9d3",
+        "email": "Noemie33@gmail.com",
+        "firstName": "Allison",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6431411",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "eeab329e-9187-427d-9f44-c069dd70df94",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T08:47:38.667Z",
+        "updated_at": "2023-08-14T14:11:17.397Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5638bc50-522d-4f73-9115-0cbe387e143b",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T16:35:13.172Z",
+        "updated_at": "2023-08-14T12:40:28.554Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "96f31e39-d851-4ee0-a63e-667a38d3277b",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T22:04:47.606Z",
+        "updated_at": "2023-08-14T18:23:05.383Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb52a5ed-e5aa-460a-9007-7ef1c69e2bc9",
+        "name": "Care Team",
+        "created_at": "2023-08-14T12:16:10.385Z",
+        "updated_at": "2023-08-14T01:48:43.747Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0f3080a9-6fec-4ad5-a5f3-c82946120d9b",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T03:57:07.640Z",
+        "updated_at": "2023-08-14T03:38:53.385Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "f17df704-1767-46e7-962c-c9568cffca1d",
+        "created_at": "2023-08-14T07:39:32.434Z",
+        "updated_at": "2023-08-14T01:33:19.775Z",
+        "team_id": "0f3080a9-6fec-4ad5-a5f3-c82946120d9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5bfd5eb-f781-4a8a-a1a2-5dd19e176f81",
+        "created_at": "2023-08-14T22:26:59.980Z",
+        "updated_at": "2023-08-14T12:20:12.962Z",
+        "team_id": "fb52a5ed-e5aa-460a-9007-7ef1c69e2bc9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdf9bdb3-0ffc-4233-b58b-f9b57cbdbb46",
+        "created_at": "2023-08-14T12:01:03.244Z",
+        "updated_at": "2023-08-14T12:51:44.462Z",
+        "team_id": "fb52a5ed-e5aa-460a-9007-7ef1c69e2bc9",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4684666c-fc30-43ae-af1a-cbc3896e2eee",
+        "created_at": "2023-08-14T13:53:05.051Z",
+        "updated_at": "2023-08-14T15:38:03.099Z",
+        "team_id": "0f3080a9-6fec-4ad5-a5f3-c82946120d9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a15f4242-b1f6-4963-a336-f8625c522154",
+        "created_at": "2023-08-14T17:45:15.510Z",
+        "updated_at": "2023-08-14T04:26:00.035Z",
+        "team_id": "eeab329e-9187-427d-9f44-c069dd70df94",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "c6a72d65-f3dc-403a-bc9b-85543bf14e71",
+        "created_at": "2023-08-14T06:02:54.580Z",
+        "updated_at": "2023-08-14T19:52:02.101Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d01ebe0-081d-455c-b31b-3d596eab1dac",
+        "created_at": "2023-08-14T08:29:33.000Z",
+        "updated_at": "2023-08-14T21:13:48.440Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebd0ae71-3380-4ca8-82e8-509672acd19d",
+        "created_at": "2023-08-14T09:38:02.794Z",
+        "updated_at": "2023-08-14T03:26:47.319Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "453ebc8c-4f53-4148-b1c9-eb43b80e415b",
+        "created_at": "2023-08-14T18:49:38.302Z",
+        "updated_at": "2023-08-14T06:41:12.957Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "430da697-ad57-4565-b1e0-5085063bec2d",
+        "created_at": "2023-08-14T16:21:41.397Z",
+        "updated_at": "2023-08-14T05:25:35.849Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "db2eb648-d3c3-478c-92cf-95856011a609",
+        "date_time": "2023-08-14T14:12:45.588Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T03:57:50.483Z",
+        "updated_at": "2023-08-14T23:48:41.035Z",
+        "referee_id": "ebd0ae71-3380-4ca8-82e8-509672acd19d",
+        "team1_id": "0f3080a9-6fec-4ad5-a5f3-c82946120d9b",
+        "team2_id": "5638bc50-522d-4f73-9115-0cbe387e143b"
+      },
+      {
+        "id": "caa1c2c7-3c48-4e2e-96a4-460b0ee8950b",
+        "date_time": "2023-08-14T07:49:57.960Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T13:32:14.158Z",
+        "updated_at": "2023-08-14T10:54:24.990Z",
+        "referee_id": "430da697-ad57-4565-b1e0-5085063bec2d",
+        "team1_id": "5638bc50-522d-4f73-9115-0cbe387e143b",
+        "team2_id": "5638bc50-522d-4f73-9115-0cbe387e143b"
+      },
+      {
+        "id": "561cfc80-b434-46b5-8b50-37b67486e60c",
+        "date_time": "2023-08-14T12:20:31.937Z",
+        "location": "London",
+        "created_at": "2023-08-14T20:14:37.724Z",
+        "updated_at": "2023-08-14T17:08:40.068Z",
+        "referee_id": "6d01ebe0-081d-455c-b31b-3d596eab1dac",
+        "team1_id": "96f31e39-d851-4ee0-a63e-667a38d3277b",
+        "team2_id": "5638bc50-522d-4f73-9115-0cbe387e143b"
+      },
+      {
+        "id": "5bdca864-e64c-46fd-83f9-25cec1c29dd1",
+        "date_time": "2023-08-14T19:57:35.430Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T11:45:22.198Z",
+        "updated_at": "2023-08-14T03:21:30.600Z",
+        "referee_id": "6d01ebe0-081d-455c-b31b-3d596eab1dac",
+        "team1_id": "eeab329e-9187-427d-9f44-c069dd70df94",
+        "team2_id": "fb52a5ed-e5aa-460a-9007-7ef1c69e2bc9"
+      },
+      {
+        "id": "7d15a217-1bf1-4fb6-9251-613d674ef2e0",
+        "date_time": "2023-08-14T14:40:21.267Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T15:50:54.425Z",
+        "updated_at": "2023-08-14T19:43:01.892Z",
+        "referee_id": "453ebc8c-4f53-4148-b1c9-eb43b80e415b",
+        "team1_id": "0f3080a9-6fec-4ad5-a5f3-c82946120d9b",
+        "team2_id": "eeab329e-9187-427d-9f44-c069dd70df94"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "77d55707-4840-4df1-a8a7-7d7425c305a9",
+        "email": "Alexane24@gmail.com",
+        "firstName": "Jacynthe",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52093202",
+        "tenantId": null
+      },
+      {
+        "reference": "de039269-2cd4-4c27-b146-168da9a46bbe",
+        "email": "Sally.Leuschke@gmail.com",
+        "firstName": "Dasia",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/20.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f28e5deb-69de-4084-a461-4fc181b93b15",
+        "email": "Marc_Tromp@gmail.com",
+        "firstName": "Brooklyn",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15744417",
+        "tenantId": null
+      },
+      {
+        "reference": "f24ed34e-8ad9-4f0b-886c-e105dc298f4a",
+        "email": "Amya_Wilderman@hotmail.com",
+        "firstName": "Logan",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38797536",
+        "tenantId": null
+      },
+      {
+        "reference": "92aeac48-4bda-4a3f-9bcb-358d52d79ce3",
+        "email": "Alek69@hotmail.com",
+        "firstName": "Jeremie",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/878.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "d27b171d-5e0e-42e5-9421-bf34881f1fd6",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T11:33:49.132Z",
+        "updated_at": "2023-08-14T17:53:37.622Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f30d8920-a975-46c4-b73d-bad98fa066f1",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T04:29:40.903Z",
+        "updated_at": "2023-08-14T02:42:39.611Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T13:18:41.616Z",
+        "updated_at": "2023-08-14T08:03:41.391Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c19937d4-3bd4-41f3-a9c9-2338483126f7",
+        "name": "Care Team",
+        "created_at": "2023-08-14T08:24:41.235Z",
+        "updated_at": "2023-08-14T10:02:39.558Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "92d9246b-19af-41ec-aa5c-fd7376f43fff",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T02:34:17.882Z",
+        "updated_at": "2023-08-14T20:30:08.480Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "4a3c1d7d-3227-401e-98e9-ef42b2127ce1",
+        "created_at": "2023-08-14T03:06:50.853Z",
+        "updated_at": "2023-08-14T19:23:24.849Z",
+        "team_id": "d27b171d-5e0e-42e5-9421-bf34881f1fd6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb362d9e-c878-4961-8774-f05a93dffced",
+        "created_at": "2023-08-14T20:33:08.827Z",
+        "updated_at": "2023-08-14T17:11:20.054Z",
+        "team_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aee3b2c2-b4b4-4d7a-a0a0-7f12ce4309ad",
+        "created_at": "2023-08-14T02:17:48.834Z",
+        "updated_at": "2023-08-14T18:43:57.944Z",
+        "team_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba989887-97cb-4ea5-b9bb-ff33a66bfc4f",
+        "created_at": "2023-08-15T00:35:38.439Z",
+        "updated_at": "2023-08-14T03:24:45.111Z",
+        "team_id": "c19937d4-3bd4-41f3-a9c9-2338483126f7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f7e6f7d-860b-4e40-a842-2e3183528f16",
+        "created_at": "2023-08-14T07:02:51.053Z",
+        "updated_at": "2023-08-14T23:05:45.057Z",
+        "team_id": "d27b171d-5e0e-42e5-9421-bf34881f1fd6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "43dcd769-891f-4aad-a8f7-f024863463d0",
+        "created_at": "2023-08-14T20:35:45.578Z",
+        "updated_at": "2023-08-14T03:49:38.019Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df6a60f1-513c-4944-b4a0-a39d5e619224",
+        "created_at": "2023-08-14T04:07:27.447Z",
+        "updated_at": "2023-08-14T23:09:16.530Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81a840b2-00ff-426a-b026-8c77e6260b57",
+        "created_at": "2023-08-14T10:51:13.866Z",
+        "updated_at": "2023-08-14T09:04:45.919Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30fc79bb-6a63-4508-9d32-15a1eafb4382",
+        "created_at": "2023-08-15T01:02:43.064Z",
+        "updated_at": "2023-08-14T01:56:23.910Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2385557-0b33-43f2-b954-c37484eb5680",
+        "created_at": "2023-08-14T17:16:53.426Z",
+        "updated_at": "2023-08-14T06:08:21.495Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "3a27fcb7-7f83-4261-a247-33cc28ef277a",
+        "date_time": "2023-08-14T04:23:17.422Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T11:33:11.320Z",
+        "updated_at": "2023-08-14T05:20:56.306Z",
+        "referee_id": "81a840b2-00ff-426a-b026-8c77e6260b57",
+        "team1_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "team2_id": "d27b171d-5e0e-42e5-9421-bf34881f1fd6"
+      },
+      {
+        "id": "afdb5722-d2a7-4b14-9fc5-afd0fedf0fa2",
+        "date_time": "2023-08-14T18:59:03.916Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T22:59:21.233Z",
+        "updated_at": "2023-08-14T18:26:12.986Z",
+        "referee_id": "df6a60f1-513c-4944-b4a0-a39d5e619224",
+        "team1_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "team2_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836"
+      },
+      {
+        "id": "153ba987-0f76-4605-b69f-31d127d45d3b",
+        "date_time": "2023-08-14T01:51:06.509Z",
+        "location": "London",
+        "created_at": "2023-08-15T01:09:32.485Z",
+        "updated_at": "2023-08-14T03:03:53.435Z",
+        "referee_id": "c2385557-0b33-43f2-b954-c37484eb5680",
+        "team1_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "team2_id": "f30d8920-a975-46c4-b73d-bad98fa066f1"
+      },
+      {
+        "id": "9423d19c-271d-417c-b73e-419b81f2f015",
+        "date_time": "2023-08-14T10:22:05.441Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T22:53:40.039Z",
+        "updated_at": "2023-08-14T09:42:05.392Z",
+        "referee_id": "30fc79bb-6a63-4508-9d32-15a1eafb4382",
+        "team1_id": "c19937d4-3bd4-41f3-a9c9-2338483126f7",
+        "team2_id": "d27b171d-5e0e-42e5-9421-bf34881f1fd6"
+      },
+      {
+        "id": "497e6042-3951-4425-a9e2-d6cec3335e3c",
+        "date_time": "2023-08-14T06:38:31.459Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T21:41:42.809Z",
+        "updated_at": "2023-08-14T03:06:02.142Z",
+        "referee_id": "c2385557-0b33-43f2-b954-c37484eb5680",
+        "team1_id": "63959f54-c5c0-407b-85aa-b4e6d64eb836",
+        "team2_id": "92d9246b-19af-41ec-aa5c-fd7376f43fff"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "971fdf81-b9ae-4830-92f6-0dd225c91594",
+        "email": "Reanna.Grimes@gmail.com",
+        "firstName": "Ericka",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/748.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3ba6c428-2be3-48f4-b09a-cc5baf856b76",
+        "email": "Brando.Walsh63@yahoo.com",
+        "firstName": "Melody",
+        "lastName": "Bauch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1131.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f2d759e2-2d32-4f44-a66c-9822eeaa8fc3",
+        "email": "Michele.Frami@gmail.com",
+        "firstName": "Sabrina",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/337.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fb7cba0a-c572-4116-926c-b57c0d604fc8",
+        "email": "Angelica.Gutkowski24@gmail.com",
+        "firstName": "Melvin",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/427.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d9bc5630-7a63-4749-b184-8d04a4977a46",
+        "email": "Akeem_Prohaska@hotmail.com",
+        "firstName": "Peggie",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/880.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "5be6ff0b-ec19-416b-b0f9-3182931cc185",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T09:16:26.564Z",
+        "updated_at": "2023-08-14T02:22:26.828Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "554421bf-7a17-4bb0-bc39-abb44456ded7",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T22:15:42.682Z",
+        "updated_at": "2023-08-14T08:53:03.619Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "65c90d73-e9c9-4968-bdcc-87c9f4250a5c",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T03:26:22.894Z",
+        "updated_at": "2023-08-14T14:27:24.916Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "293aac81-8acc-462e-bf3f-a7042803ece4",
+        "name": "Care Team",
+        "created_at": "2023-08-14T07:03:16.379Z",
+        "updated_at": "2023-08-14T09:48:16.549Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bf58f6c9-447a-467c-a3d4-8296897bd69b",
+        "name": "Creative Designers",
+        "created_at": "2023-08-15T00:29:17.000Z",
+        "updated_at": "2023-08-14T11:23:48.351Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "beef4207-7616-4834-8049-cbcd4902a5ba",
+        "created_at": "2023-08-14T03:30:26.374Z",
+        "updated_at": "2023-08-14T17:20:41.945Z",
+        "team_id": "554421bf-7a17-4bb0-bc39-abb44456ded7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11496359-011b-47c8-a034-aeac25399b9c",
+        "created_at": "2023-08-14T04:44:36.712Z",
+        "updated_at": "2023-08-14T10:22:20.810Z",
+        "team_id": "65c90d73-e9c9-4968-bdcc-87c9f4250a5c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67e5f56e-3a57-4488-a0d2-dd1204c69930",
+        "created_at": "2023-08-14T12:43:09.215Z",
+        "updated_at": "2023-08-14T15:48:31.720Z",
+        "team_id": "65c90d73-e9c9-4968-bdcc-87c9f4250a5c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca277c05-fd92-42a0-904e-5801842680b7",
+        "created_at": "2023-08-14T02:02:10.294Z",
+        "updated_at": "2023-08-14T19:41:29.206Z",
+        "team_id": "293aac81-8acc-462e-bf3f-a7042803ece4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44db7f99-7e0d-47e8-b462-42548376d66c",
+        "created_at": "2023-08-14T12:57:30.284Z",
+        "updated_at": "2023-08-14T21:53:44.826Z",
+        "team_id": "65c90d73-e9c9-4968-bdcc-87c9f4250a5c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "c8ac1cc3-ea8d-43d1-ba48-31c075f304a2",
+        "created_at": "2023-08-14T22:28:52.720Z",
+        "updated_at": "2023-08-14T12:04:58.346Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8489ce6-6e29-41bc-8165-20173d75c334",
+        "created_at": "2023-08-14T20:35:09.011Z",
+        "updated_at": "2023-08-14T03:32:33.186Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6169d768-4e11-46ec-acd1-73359779caa8",
+        "created_at": "2023-08-14T10:51:45.204Z",
+        "updated_at": "2023-08-14T22:50:26.155Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d66bb90-1b72-4080-87ea-db52d30d16c5",
+        "created_at": "2023-08-14T18:08:00.797Z",
+        "updated_at": "2023-08-14T06:02:29.219Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0a74bd1-2521-47e4-92b6-2e3cfeb1cb8e",
+        "created_at": "2023-08-14T06:06:21.022Z",
+        "updated_at": "2023-08-14T14:14:02.214Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "43bfbe0e-83aa-47a5-8104-9787c986423f",
+        "date_time": "2023-08-14T23:07:45.132Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T13:28:27.323Z",
+        "updated_at": "2023-08-15T01:00:22.457Z",
+        "referee_id": "6169d768-4e11-46ec-acd1-73359779caa8",
+        "team1_id": "bf58f6c9-447a-467c-a3d4-8296897bd69b",
+        "team2_id": "bf58f6c9-447a-467c-a3d4-8296897bd69b"
+      },
+      {
+        "id": "4b9427e7-d592-478b-be83-03370f757507",
+        "date_time": "2023-08-14T05:51:43.469Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T17:47:58.809Z",
+        "updated_at": "2023-08-14T01:54:33.182Z",
+        "referee_id": "e8489ce6-6e29-41bc-8165-20173d75c334",
+        "team1_id": "554421bf-7a17-4bb0-bc39-abb44456ded7",
+        "team2_id": "5be6ff0b-ec19-416b-b0f9-3182931cc185"
+      },
+      {
+        "id": "70e52b2b-a253-4935-ae1d-c75448bbf36d",
+        "date_time": "2023-08-14T01:49:04.209Z",
+        "location": "London",
+        "created_at": "2023-08-14T16:02:13.827Z",
+        "updated_at": "2023-08-14T15:45:55.545Z",
+        "referee_id": "6d66bb90-1b72-4080-87ea-db52d30d16c5",
+        "team1_id": "293aac81-8acc-462e-bf3f-a7042803ece4",
+        "team2_id": "65c90d73-e9c9-4968-bdcc-87c9f4250a5c"
+      },
+      {
+        "id": "d636acd3-0945-434e-9324-e2484bd51a60",
+        "date_time": "2023-08-14T20:02:31.635Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T22:23:20.231Z",
+        "updated_at": "2023-08-14T10:41:09.062Z",
+        "referee_id": "c0a74bd1-2521-47e4-92b6-2e3cfeb1cb8e",
+        "team1_id": "293aac81-8acc-462e-bf3f-a7042803ece4",
+        "team2_id": "293aac81-8acc-462e-bf3f-a7042803ece4"
+      },
+      {
+        "id": "65e23cbe-fe38-497d-858e-862bf6fbdbd8",
+        "date_time": "2023-08-14T18:41:46.726Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T20:55:43.964Z",
+        "updated_at": "2023-08-14T06:11:57.371Z",
+        "referee_id": "c0a74bd1-2521-47e4-92b6-2e3cfeb1cb8e",
+        "team1_id": "bf58f6c9-447a-467c-a3d4-8296897bd69b",
+        "team2_id": "bf58f6c9-447a-467c-a3d4-8296897bd69b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8b189f5a-8e5e-45bf-aee7-5be51b2c88e4",
+        "email": "Easter_Cummings69@gmail.com",
+        "firstName": "Viviane",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/996.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6cc8ef64-4300-4430-bb03-5daa757050f8",
+        "email": "Brook83@yahoo.com",
+        "firstName": "Carol",
+        "lastName": "Erdman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/861.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1133ae1e-16b7-44c8-a0c4-4510813cce5f",
+        "email": "Dario64@yahoo.com",
+        "firstName": "Vernon",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95377053",
+        "tenantId": null
+      },
+      {
+        "reference": "5825f786-4b3f-4869-ad37-1dde75cf02f8",
+        "email": "Beulah_Kemmer@yahoo.com",
+        "firstName": "Dorthy",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1377036",
+        "tenantId": null
+      },
+      {
+        "reference": "f3e83668-cec0-4708-a847-9b57bb7ff187",
+        "email": "Dahlia26@gmail.com",
+        "firstName": "Antonia",
+        "lastName": "Feest",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6237666",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "id": "c1fb7d99-ddce-4aa4-a73a-76a0ebb5d357",
+        "name": "Alpha Squad",
+        "created_at": "2023-08-14T01:40:07.423Z",
+        "updated_at": "2023-08-14T03:58:19.936Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "83ec8afa-66de-406b-b9b8-2229550f7973",
+        "name": "Innovation Team",
+        "created_at": "2023-08-14T23:53:49.504Z",
+        "updated_at": "2023-08-14T06:50:54.126Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b24a9469-d217-401b-a2d1-96d5b063407a",
+        "name": "Strategic Consultants",
+        "created_at": "2023-08-14T16:36:15.206Z",
+        "updated_at": "2023-08-14T16:31:07.559Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc",
+        "name": "Care Team",
+        "created_at": "2023-08-14T16:33:39.815Z",
+        "updated_at": "2023-08-14T18:42:28.253Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ca38fa16-b32d-4834-85bc-ac3e3c05f626",
+        "name": "Creative Designers",
+        "created_at": "2023-08-14T11:14:48.402Z",
+        "updated_at": "2023-08-14T14:54:19.502Z",
+        "manager_id": "user_entity_pk",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "player": [
+      {
+        "id": "b182747f-e017-4d59-a733-ea1b17ec41a0",
+        "created_at": "2023-08-14T02:58:22.189Z",
+        "updated_at": "2023-08-14T02:22:04.807Z",
+        "team_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cded9aa-c796-43da-9904-652af1bf1466",
+        "created_at": "2023-08-14T19:15:06.197Z",
+        "updated_at": "2023-08-14T15:53:52.329Z",
+        "team_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9fb392a-17cd-4ea5-aab5-afa9ef1b2e98",
+        "created_at": "2023-08-14T17:08:45.298Z",
+        "updated_at": "2023-08-14T03:41:31.583Z",
+        "team_id": "b24a9469-d217-401b-a2d1-96d5b063407a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2152e63b-a191-4b02-b107-7647312e7b19",
+        "created_at": "2023-08-14T12:55:14.416Z",
+        "updated_at": "2023-08-14T14:47:26.082Z",
+        "team_id": "83ec8afa-66de-406b-b9b8-2229550f7973",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abdd1357-8d86-4bc3-bd65-3160fb888a35",
+        "created_at": "2023-08-14T20:15:24.067Z",
+        "updated_at": "2023-08-14T14:34:26.670Z",
+        "team_id": "c1fb7d99-ddce-4aa4-a73a-76a0ebb5d357",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "referee": [
+      {
+        "id": "3b8af905-6a66-4949-a80e-953d750de190",
+        "created_at": "2023-08-14T14:53:18.947Z",
+        "updated_at": "2023-08-14T18:39:27.875Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6ed3b38-7195-4a40-adf1-edad81091e5e",
+        "created_at": "2023-08-14T17:24:02.392Z",
+        "updated_at": "2023-08-14T22:12:01.798Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "883d56ec-68b5-4e98-ba8c-80b94ad17354",
+        "created_at": "2023-08-14T18:40:42.463Z",
+        "updated_at": "2023-08-14T06:46:30.295Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f47c2b9b-5804-4368-952e-c8304db3135b",
+        "created_at": "2023-08-14T17:04:51.130Z",
+        "updated_at": "2023-08-14T21:04:16.073Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44e41229-baeb-4fa4-99c9-ff3c7838c0c0",
+        "created_at": "2023-08-14T15:03:15.087Z",
+        "updated_at": "2023-08-14T04:37:01.699Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "3c755578-b21f-4a84-98a0-c5796f42dfff",
+        "date_time": "2023-08-14T02:40:08.297Z",
+        "location": "New York City",
+        "created_at": "2023-08-14T16:44:27.261Z",
+        "updated_at": "2023-08-15T00:37:17.858Z",
+        "referee_id": "883d56ec-68b5-4e98-ba8c-80b94ad17354",
+        "team1_id": "ca38fa16-b32d-4834-85bc-ac3e3c05f626",
+        "team2_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc"
+      },
+      {
+        "id": "eb11ebb5-efd4-4ba3-bfe5-aefb6765d978",
+        "date_time": "2023-08-14T19:45:23.990Z",
+        "location": "Los Angeles",
+        "created_at": "2023-08-14T08:00:14.772Z",
+        "updated_at": "2023-08-14T21:24:57.331Z",
+        "referee_id": "883d56ec-68b5-4e98-ba8c-80b94ad17354",
+        "team1_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc",
+        "team2_id": "ca38fa16-b32d-4834-85bc-ac3e3c05f626"
+      },
+      {
+        "id": "ab5090dc-64f5-4296-844f-f95ba0897464",
+        "date_time": "2023-08-14T17:38:20.410Z",
+        "location": "London",
+        "created_at": "2023-08-14T09:58:00.609Z",
+        "updated_at": "2023-08-15T00:29:49.672Z",
+        "referee_id": "3b8af905-6a66-4949-a80e-953d750de190",
+        "team1_id": "b24a9469-d217-401b-a2d1-96d5b063407a",
+        "team2_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc"
+      },
+      {
+        "id": "cde4329d-1e03-40a1-bd0f-b3fa6735cd5c",
+        "date_time": "2023-08-14T12:51:50.647Z",
+        "location": "Tokyo",
+        "created_at": "2023-08-14T08:34:54.277Z",
+        "updated_at": "2023-08-14T06:49:11.323Z",
+        "referee_id": "a6ed3b38-7195-4a40-adf1-edad81091e5e",
+        "team1_id": "ef23697e-aa99-4e31-a6a6-ed6160ad48bc",
+        "team2_id": "c1fb7d99-ddce-4aa4-a73a-76a0ebb5d357"
+      },
+      {
+        "id": "954ae24c-75ec-4936-b364-1f5b506e14e5",
+        "date_time": "2023-08-14T14:23:31.326Z",
+        "location": "Sydney",
+        "created_at": "2023-08-14T10:52:50.810Z",
+        "updated_at": "2023-08-14T10:57:49.221Z",
+        "referee_id": "f47c2b9b-5804-4368-952e-c8304db3135b",
+        "team1_id": "83ec8afa-66de-406b-b9b8-2229550f7973",
+        "team2_id": "c1fb7d99-ddce-4aa4-a73a-76a0ebb5d357"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cbd94b8d-3397-4567-bb34-2da8eb45a3d0",
+        "email": "Malvina_Walker33@hotmail.com",
+        "firstName": "Karlee",
+        "lastName": "Mante",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/877.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3dc744d2-cadc-4ca5-ae83-e135547f67b0",
+        "email": "Bette_Schuster2@gmail.com",
+        "firstName": "Ursula",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88634762",
+        "tenantId": null
+      },
+      {
+        "reference": "40893c1d-84b4-4dda-b2d7-1394255c23e5",
+        "email": "Eileen.Stanton@hotmail.com",
+        "firstName": "Leanne",
+        "lastName": "Little",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89314632",
+        "tenantId": null
+      },
+      {
+        "reference": "a68ab79b-ec0c-4985-b65f-8e0c9635ef92",
+        "email": "Blaze16@gmail.com",
+        "firstName": "Dock",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/963.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "886f75b6-6810-402a-85b8-60f92b9e6d6d",
+        "email": "Lester.OReilly@hotmail.com",
+        "firstName": "Hollis",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84630019",
+        "tenantId": null
+      }
+    ]
+  }
+]
